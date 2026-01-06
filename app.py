@@ -19,7 +19,7 @@ import json
 import os
 import random
 import sqlite3
-import time
+import time  # noqa: F401
 from datetime import datetime, timedelta
 from functools import wraps
 
